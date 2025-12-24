@@ -1,5 +1,8 @@
-     {
-       "owner_id": "76561199100174556",
-       "authorized_ids": ["user1_id", "user2_id"],
-       "updated_at": null
-     }
+{
+  "owner_id": "76561199100174556",
+  "authorized_ids": [
+    "76561199100174556",
+    "76561199794516532"
+  ],
+  "updated_at": null
+}
